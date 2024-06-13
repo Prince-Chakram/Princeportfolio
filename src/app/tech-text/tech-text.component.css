@@ -1,0 +1,20 @@
+.under{
+  width:10%;
+  font-weight: bold;
+  margin-left: 45%;
+}.skill h1{
+  font-size: bold;
+  text-align: center;
+}
+.card-group{
+  gap: 30px;
+}
+.card-text{
+  font-size: 12px;
+}
+.tech{
+  margin-top: 1rem;
+}
+.system{
+  box-shadow: 0PX 2PX 2PX 2PX solid rgb(204, 52, 52);
+}

@@ -1,0 +1,33 @@
+h1{
+  text-align: center;
+  font-weight: bold;
+}
+.container{
+  margin-top: 3rem;
+}
+.hyper{
+  width: 14%;
+  margin-left: 43%;
+}
+.imgage img{
+  border-radius:50%;
+  width: 100%;
+}
+.card-text{
+  width:90%;
+  font-size: 20px;
+}
+.node{
+  gap: 70px;
+}
+.net img{
+ border-radius:50%;
+ height: 50vh;
+ width: 95%;
+}
+.text{
+  /* margin-top: rem; */
+}
+.text1{
+  margin-top: 4rem;
+}
